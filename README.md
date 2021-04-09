@@ -1,6 +1,4 @@
-# CS 499 Senior Project #
-### Project Assignment ###
-### Patient Information Management System (PIMS) ###
+# Patient Information Management System (PIMS) #
 
 ## Rationale ##
 Hospitals must maintain current information on all patients in the hospital as well as those recently released.  This information has to be readily available to a number of hospital personal such as doctors, nurses, office staff, and volunteers. 
