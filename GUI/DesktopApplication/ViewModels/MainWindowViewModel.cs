@@ -1,6 +1,6 @@
 ﻿using Prism.Mvvm;
 
-namespace PIMS.GUI.WPFApplication.ViewModels
+namespace DesktopApplication.ViewModels
 {
     public class MainWindowViewModel : BindableBase
     {

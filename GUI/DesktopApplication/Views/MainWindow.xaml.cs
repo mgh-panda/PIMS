@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace PIMS.GUI.WPFApplication.Views
+namespace DesktopApplication.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

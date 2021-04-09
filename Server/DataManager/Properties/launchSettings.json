@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:51080",
-      "sslPort": 44369
+      "applicationUrl": "http://localhost:64554",
+      "sslPort": 44316
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "PIMS.Server.DataManager": {
+    "DataManager": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

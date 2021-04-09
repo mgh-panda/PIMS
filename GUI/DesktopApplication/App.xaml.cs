@@ -1,8 +1,8 @@
-﻿using PIMS.GUI.WPFApplication.Views;
+﻿using DesktopApplication.Views;
 using Prism.Ioc;
 using System.Windows;
 
-namespace PIMS.GUI.WPFApplication
+namespace DesktopApplication
 {
     /// <summary>
     /// Interaction logic for App.xaml
